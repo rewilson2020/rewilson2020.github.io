@@ -17,8 +17,8 @@ h2{
   font-size: 3.35rem;
   line-height: 1.5;
   padding-top: 50px;
-  padding-bottom: 50px;
-  margin-bottom: 30px;
+  padding-bottom: 20px;
+  margin-bottom: 25px;
   outline-color: black;
   background: -moz-linear-gradient(left,#162447 15%,#1f4068 85%) !important;
   background: -webkit-linear-gradient(left,#162447 15%,#1f4068 85%) !important;
@@ -156,8 +156,8 @@ background-color: #93deff;
 }
 
 .brand{
-  width: 955px;
-  height: 635px;
+  width: 900px;
+  height: 600px;
   margin-bottom: 80px;
   border-style: solid;
   border-color: #black;
